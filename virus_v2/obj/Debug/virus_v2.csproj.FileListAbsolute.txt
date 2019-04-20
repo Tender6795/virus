@@ -1,0 +1,16 @@
+c:\users\пк\source\repos\virus_v2\virus_v2\bin\Debug\virus_v2.exe.config
+c:\users\пк\source\repos\virus_v2\virus_v2\bin\Debug\virus_v2.exe
+c:\users\пк\source\repos\virus_v2\virus_v2\bin\Debug\virus_v2.pdb
+c:\users\пк\source\repos\virus_v2\virus_v2\obj\Debug\virus_v2.csprojResolveAssemblyReference.cache
+c:\users\пк\source\repos\virus_v2\virus_v2\obj\Debug\virus_v2.csproj.CoreCompileInputs.cache
+c:\users\пк\source\repos\virus_v2\virus_v2\obj\Debug\virus_v2.exe
+c:\users\пк\source\repos\virus_v2\virus_v2\obj\Debug\virus_v2.pdb
+c:\users\пк\source\repos\virus_v2\virus_v2\bin\Debug\EntityFramework.dll
+c:\users\пк\source\repos\virus_v2\virus_v2\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\пк\source\repos\virus_v2\virus_v2\bin\Debug\System.Data.SQLite.dll
+c:\users\пк\source\repos\virus_v2\virus_v2\bin\Debug\System.Data.SQLite.EF6.dll
+c:\users\пк\source\repos\virus_v2\virus_v2\bin\Debug\System.Data.SQLite.Linq.dll
+c:\users\пк\source\repos\virus_v2\virus_v2\bin\Debug\EntityFramework.xml
+c:\users\пк\source\repos\virus_v2\virus_v2\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\пк\source\repos\virus_v2\virus_v2\bin\Debug\System.Data.SQLite.xml
+c:\users\пк\source\repos\virus_v2\virus_v2\bin\Debug\System.Data.SQLite.dll.config
